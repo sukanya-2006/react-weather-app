@@ -1,0 +1,37 @@
+/* Center the search box */
+.SearchBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+/* Put input and button in one row */
+.SearchBox form {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Style the input field */
+.SearchBox .MuiTextField-root {
+  width: 280px;
+}
+
+/* Style the search button */
+.SearchBox .MuiButton-root {
+  height: 56px;
+  padding: 0 22px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 8px;
+  text-transform: none;
+  background-color: #1976d2;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+.SearchBox .MuiButton-root:hover {
+  background-color: #1565c0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+}
