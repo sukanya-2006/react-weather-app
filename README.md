@@ -31,24 +31,11 @@ This project demonstrates React component structure, API integration, state mana
 ---
 
 ## 📂 Project Structure
-WeatherApp-react/
-│
-├── public/
-│
-├── src/
-│ ├── App.jsx
-│ ├── WeatherApp.jsx
-│ ├── SearchBox.jsx
-│ ├── InfoBox.jsx
-│ ├── SearchBox.css
-│ ├── InfoBox.css
-│ ├── WeatherApp.css
-│ ├── main.jsx
-│ └── index.css
-│
-├── package.json
-├── vite.config.js
-└── README.md
+## 📸 Preview
+
+## 📸 Preview
+
+![Weather App Preview](assets/preview.png)
 
 
 ## 🔑 API Used
