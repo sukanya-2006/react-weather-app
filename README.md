@@ -34,7 +34,7 @@ This project demonstrates React component structure, API integration, state mana
 
 ## 📸 Preview
 
-![Weather App Preview](assets/preview.jpg)
+![Weather App Preview](screenshots/preview.jpg)
 
 
 ## 🔑 API Used
