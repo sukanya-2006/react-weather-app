@@ -31,11 +31,10 @@ This project demonstrates React component structure, API integration, state mana
 ---
 
 ## 📂 Project Structure
-## 📸 Preview
 
 ## 📸 Preview
 
-![Weather App Preview](assets/preview.png)
+![Weather App Preview](assets/preview.jpg)
 
 
 ## 🔑 API Used
